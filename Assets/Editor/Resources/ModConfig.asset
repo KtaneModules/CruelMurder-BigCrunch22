@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: CruelMurder
+  title: Cruel Murder
+  author: BigCrunch22
+  description: "\"This module is powered by the relentless soul of a murder victim.
+    The only way to set it free is to solve the case so the victim can finally move
+    on to the afterlife. Many before you have tried to connect the dots, and they
+    all failed. Will you fare better than them?\"\r\n\r\nImplementor - BigCrunch22\r\n\nTP
+    Supported!\r\n\r\nIf someone wants to add TP Support/Logging/Anything useful,
+    you have my approval for that.\n\n------------------------------------------------------------\n\n[i][b]Note:
+    [/b] The module utilized [b]Gemini[/b] a great amount during creation, especially
+    with the puzzle generator.[/i]"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 4f193ab319de1b2498f4f6d923dc0b87, type: 3}
